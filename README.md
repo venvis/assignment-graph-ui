@@ -7,7 +7,7 @@ cd assignment-graph-ui
 cd src
 npm start
 ```
-<p align="center">Once started , it will automatically open localhost:3000 and this should be how index.tsx looks like</p>
+<p align="center">Once started , it will automatically open localhost:3000 and this should be how index.tsx looks like. In case any error occurs due to headless reading on the page , refreshing the page will make it go away and the code will work fine</p>
 
 <div align="center">
   <img src="https://i.imgur.com/lEoOxBA.png">
