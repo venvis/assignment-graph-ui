@@ -2,7 +2,7 @@
 
 ```sh
 git clone git@github.com:venvis/assignment-graph-ui.git
-npm install // install all dependencies from package.json
+npm install 
 cd assignment-graph-ui
 cd src
 npm start
