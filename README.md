@@ -21,6 +21,13 @@ npm start
   <img src="https://i.imgur.com/LYrBXqR.png">
   <img src="https://i.imgur.com/1hLgzMo.png">
 </div>
+<p align="center">Change name by removing the "Enter name to be changed" and edit into name accordingly and click on the change button.</p>
 <br>
 
-<p align="center">For Requirement 4 , start searching by typing directly in the search field and automatically all nodes not related and their edges start disappearing , showing only related nodes from the search bar.Not CASE friendly</p>
+<p align="center">For Requirement 4 , start searching by typing directly in the search field and automatically all nodes not related and their edges start disappearing , showing only related nodes from the search bar.Not CASE friendly. For Example : </p>
+
+<div align="center" display="flex">
+  <img src="https://i.imgur.com/szFzQ9A.png">
+  <img src="https://i.imgur.com/6QDqJ68.png">
+</div>
+<p align="center">In this example , RFC5 is filtered out and all other nodes and their edges/lines disappear</p>
