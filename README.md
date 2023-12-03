@@ -9,5 +9,5 @@ npm start
 <p align="center">Once started , it will automatically open localhost:3000 and this should be how index.tsx looks like</p>
 
 <div align="center">
-  <img src="https://i.imgur.com/lEoOxBA.png" height="200" width="200">
+  <img src="https://i.imgur.com/lEoOxBA.png">
 </div>
