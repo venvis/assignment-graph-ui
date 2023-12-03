@@ -16,5 +16,11 @@ npm start
 <p align="center">While clicking on the nodes , every other node it is connected to and the neighbouring lines and arrows are also highlighted : Requirement 2</p>
 <br><br>
 
-<p align="center"> To change the name , into another , I have set the content of the h3 to be editable , so it can directly be changed . Requirement 3 </p>
-<p align="center">For Requirement 4 , start searching by typing directly in the search field and automatically all nodes not related and their edges start disappearing , showing only related nodes from the search bar</p>
+<p align="center"> To change the name , into another , I have set the content of the h3 to be editable , so it can directly be changed . Requirement 3 . It is Case friendly and must be written in all CAPS like all nodes . For example: </p>
+<div align="center" display="flex">
+  <img src="https://i.imgur.com/LYrBXqR.png">
+  <img src="https://i.imgur.com/1hLgzMo.png">
+</div>
+<br>
+
+<p align="center">For Requirement 4 , start searching by typing directly in the search field and automatically all nodes not related and their edges start disappearing , showing only related nodes from the search bar.Not CASE friendly</p>
