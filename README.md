@@ -31,3 +31,9 @@ npm start
   <img src="https://i.imgur.com/6QDqJ68.png">
 </div>
 <p align="center">In this example , RFC5 is filtered out and all other nodes and their edges/lines disappear</p>
+
+```node
+
+To run all requirements including 1,2,3 and 4 , it's necessary to click on a node first to initiate step 1 for all other steps to work since all the necessary code is under the cy.on('tap') method 
+
+```
