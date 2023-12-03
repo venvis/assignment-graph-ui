@@ -9,7 +9,28 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    <div className="body">
     <App />
+   <div className="right">
+    <div className="area">
+      <br></br>
+      <p id="p"></p>
+      
+    </div>
+   <div className="buttons">
+    <h1 id="initial" placeholder="Enter Name to be changed" contentEditable="true">ENter node name</h1>
+    <h1  id="final" placeholder="Enter Name to change into" contentEditable="true">Enter name to be changed into</h1>
+    
+    <button id="one">Change</button>
+    
+      </div>
+      <div className="search">
+      <input type="text" id="filterInput" placeholder="Search node name..." />
+<div id="filteredNodes"></div>
+
+      </div>
+    </div>
+   </div>
   </React.StrictMode>
 );
 
